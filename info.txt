@@ -1,0 +1,4 @@
+El programa se esta ejecutando...
+[crearTxt1]Exception:ORA-00942: table or view does not exist
+
+El programa finalizo.
